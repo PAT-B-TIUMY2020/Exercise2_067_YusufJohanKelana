@@ -1,0 +1,17 @@
+D:\Visual Studio 2017\Projects\Exercise2_067_Yusuf Johan Kelana\bin\Debug\Exercise2_067_Yusuf Johan Kelana.exe.config
+D:\Visual Studio 2017\Projects\Exercise2_067_Yusuf Johan Kelana\bin\Debug\Exercise2_067_Yusuf Johan Kelana.exe
+D:\Visual Studio 2017\Projects\Exercise2_067_Yusuf Johan Kelana\bin\Debug\Exercise2_067_Yusuf Johan Kelana.pdb
+D:\Visual Studio 2017\Projects\Exercise2_067_Yusuf Johan Kelana\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio 2017\Projects\Exercise2_067_Yusuf Johan Kelana\bin\Debug\ServiceRest_20180140067_Yusuf Johan Kelana.dll
+D:\Visual Studio 2017\Projects\Exercise2_067_Yusuf Johan Kelana\bin\Debug\ServiceRest_20180140067_Yusuf Johan Kelana.pdb
+D:\Visual Studio 2017\Projects\Exercise2_067_Yusuf Johan Kelana\bin\Debug\ServiceRest_20180140067_Yusuf Johan Kelana.dll.config
+D:\Visual Studio 2017\Projects\Exercise2_067_Yusuf Johan Kelana\obj\Debug\Exercise2_067_Yusuf_Johan_Kelana.Create.resources
+D:\Visual Studio 2017\Projects\Exercise2_067_Yusuf Johan Kelana\obj\Debug\Exercise2_067_Yusuf_Johan_Kelana.Find.resources
+D:\Visual Studio 2017\Projects\Exercise2_067_Yusuf Johan Kelana\obj\Debug\Exercise2_067_Yusuf_Johan_Kelana.Menu.resources
+D:\Visual Studio 2017\Projects\Exercise2_067_Yusuf Johan Kelana\obj\Debug\Exercise2_067_Yusuf_Johan_Kelana.Properties.Resources.resources
+D:\Visual Studio 2017\Projects\Exercise2_067_Yusuf Johan Kelana\obj\Debug\Exercise2_067_Yusuf_Johan_Kelana.Server.resources
+D:\Visual Studio 2017\Projects\Exercise2_067_Yusuf Johan Kelana\obj\Debug\Exercise2_067_Yusuf Johan Kelana.csproj.GenerateResource.cache
+D:\Visual Studio 2017\Projects\Exercise2_067_Yusuf Johan Kelana\obj\Debug\Exercise2_067_Yusuf Johan Kelana.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\Exercise2_067_Yusuf Johan Kelana\obj\Debug\Exercise2_067_Yusuf Johan Kelana.csproj.CopyComplete
+D:\Visual Studio 2017\Projects\Exercise2_067_Yusuf Johan Kelana\obj\Debug\Exercise2_067_Yusuf Johan Kelana.exe
+D:\Visual Studio 2017\Projects\Exercise2_067_Yusuf Johan Kelana\obj\Debug\Exercise2_067_Yusuf Johan Kelana.pdb
